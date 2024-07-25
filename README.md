@@ -18,7 +18,6 @@ pip install -r requirements.txt
 How to Run
 Ensure that you have the correct directory structure:
 
-Copy code
 PROGIDY_ML_03/
 ├── train/
 │   ├── cats/
@@ -30,11 +29,9 @@ PROGIDY_ML_03/
 └── svm_classification.py
 Navigate to the project directory:
 
-Copy code
 cd PROGIDY_ML_03
 Run the SVM classification script:
 
-Copy code
 python svm_classification.py
 The script will output the accuracy of the classifier on the test set.
 
